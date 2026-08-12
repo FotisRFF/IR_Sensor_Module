@@ -1,6 +1,6 @@
 # IR_Sensor_Module
 
-An optimized, production-ready infrared sensor module designed for precision obstacle detection, edge sensing, or line tracking. This repository contains the complete PCB design files, including manufacturing panelization layouts and single-board configurations.
+An optimized, production-ready infrared sensor module designed for precision obstacle detection, edge sensing, or line tracking. This repository contains the complete PCB design files created in **KiCad**, including manufacturing panelization layouts and single-board configurations.
 
 ---
 
@@ -37,6 +37,6 @@ An optimized, production-ready infrared sensor module designed for precision obs
 ## Repository Structure
 
 ```text
-├── Altium/               # Schematic & PCB layout project files
+├── Kicad_Files/          # Schematic & PCB layout project files
 ├── Fabrication/          # Gerber files, panel assembly drawings, and BOM
 └── README.md             # Project documentation
